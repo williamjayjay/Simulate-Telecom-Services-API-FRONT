@@ -28,7 +28,7 @@
 Clone the repository
 
 ```bash
-https://github.com/williamjayjay/challenge-telzir-loldesign
+https://github.com/williamjayjay/loldesign-telzir-challenge
 ```
 
 ```bash
@@ -43,6 +43,11 @@ yarn typeorm migration:run
 
 # Run the server
 yarn dev
+```
+
+```bash
+# Run Test Driven Domain in root directory
+yarn jest src/modules
 ```
 
 # :rocket: Technologies-server
