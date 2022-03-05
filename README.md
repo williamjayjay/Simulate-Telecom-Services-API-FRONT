@@ -18,11 +18,12 @@
 
 ---
 
+# Server
 <h1 align="center">
-  <img alt="Demonstration-Server" style="margin: 2px" title="Demonstration" src="assets/img/server.gif" width="400px" />
+  <img alt="Demonstration-Server" style="margin: 2px" title="Demonstration" src="assets/img/server.gif" width="800px" />
 </h1>
 
-# :information_source: How To Use
+# :information_source: How To Use Server
 
 Clone the repository
 
@@ -44,7 +45,7 @@ yarn typeorm migration:run
 yarn dev
 ```
 
-# :rocket: Technologies
+# :rocket: Technologies-server
 
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -61,18 +62,14 @@ yarn dev
 
 ---
 
-
+# Web app
 <h1 align="center">
+
   <img alt="Demonstration-web" style="margin: 2px" title="Demonstration" src="assets/img/web.gif" width="400px" />
 </h1>
 
-# :information_source: How To Use
+# :information_source: How To Use Web App
 
-Clone the repository
-
-```bash
-https://github.com/williamjayjay/challenge-telzir-loldesign
-```
 
 ```bash
 # Install the dependencies
@@ -82,7 +79,7 @@ yarn
 yarn dev
 ```
 
-# :rocket: Technologies
+# :rocket: Technologies-web
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
