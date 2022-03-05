@@ -23,6 +23,15 @@
   <img alt="Demonstration-Server" style="margin: 2px" title="Demonstration" src="assets/img/server.gif" width="800px" />
 </h1>
 
+# Como usar API?
+
+- [x] 1- Primeiro crie os códigos de área, passando os campos origin e destiny e o valPerMinute que é o valor por minuto, na rota de /areaCode.
+
+- [x] 2- Agora crie os planos, passando o namePlan e numberPlan.
+
+- [x] 3- Note que temos a rota de Users, mas ela irá receber as requisições do Front-End!
+
+
 # :information_source: How To Use Server
 
 Clone the repository
@@ -49,15 +58,6 @@ yarn dev
 # Run Test Driven Domain in root directory
 yarn jest src/modules
 ```
-
-# Como usar?
-
-- [x] 1- Primeiro crie os códigos de área, passando os campos origin e destiny e o valPerMinute que é o valor por minuto, na rota de /areaCode.
-
-- [x] 2- Agora crie os planos, passando o namePlan e numberPlan.
-
-- [x] 3- Note que temos a rota de Users, mas ela irá receber as requisições do Front-End!
-
 
 # :rocket: Technologies-server
 
