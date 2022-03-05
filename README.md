@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use-server">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies-server">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-author">💻 Author</a>&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -65,7 +65,7 @@ yarn dev
 # Web app
 <h1 align="center">
 
-  <img alt="Demonstration-web" style="margin: 2px" title="Demonstration" src="assets/img/web.gif" width="400px" />
+  <img alt="Demonstration-web" style="margin: 2px" title="Demonstration" src="assets/img/web.gif" width="800px" />
 </h1>
 
 # :information_source: How To Use Web App
