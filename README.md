@@ -50,6 +50,15 @@ yarn dev
 yarn jest src/modules
 ```
 
+# Como usar?
+
+- [x] 1- Primeiro crie os códigos de área, passando os campos origin e destiny e o valPerMinute que é o valor por minuto, na rota de /areaCode.
+
+- [x] 2- Agora crie os planos, passando o namePlan e numberPlan.
+
+- [x] 3- Note que temos a rota de Users, mas ela irá receber as requisições do Front-End!
+
+
 # :rocket: Technologies-server
 
 - [NodeJS](https://nodejs.org/en/)
