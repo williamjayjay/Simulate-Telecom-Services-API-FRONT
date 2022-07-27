@@ -77,9 +77,9 @@ yarn jest src/modules
 ---
 
 # Web app
-<h1 align="center">
 
-  <img alt="Demonstration-web" style="margin: 2px" title="Demonstration" src="assets/img/web.gif" width="800px" />
+<h1 align="center">
+  <img alt="Demonstration-Web" style="margin: 2px" title="DemonstrationWeb" src="assets/img/web.gif" width="800px" />
 </h1>
 
 # :information_source: How To Use Web App
